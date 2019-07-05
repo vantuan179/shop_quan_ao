@@ -1,0 +1,287 @@
+# Copyright (C) 2019 WooCommerce Variation Swatches
+# This file is distributed under the same license as the WooCommerce Variation Swatches package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Variation Swatches\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../app/Controllers/Hooks.php:81, ../woo-product-variation-swatches/app/Controllers/Hooks.php:81
+msgid "Select terms"
+msgstr ""
+
+#: ../app/Controllers/Hooks.php:94, ../woo-product-variation-swatches/app/Controllers/Hooks.php:94
+msgid "Select all"
+msgstr ""
+
+#: ../app/Controllers/Hooks.php:95, ../woo-product-variation-swatches/app/Controllers/Hooks.php:95
+msgid "Select none"
+msgstr ""
+
+#: ../app/Controllers/Hooks.php:102, ../woo-product-variation-swatches/app/Controllers/Hooks.php:102
+msgid "Add new %s"
+msgstr ""
+
+#: ../app/Controllers/Hooks.php:102, ../app/Controllers/Hooks.php:104, ../woo-product-variation-swatches/app/Controllers/Hooks.php:102, ../woo-product-variation-swatches/app/Controllers/Hooks.php:104
+msgid "Add new"
+msgstr ""
+
+#: ../app/Controllers/Notifications.php:28, ../woo-product-variation-swatches/app/Controllers/Notifications.php:28
+msgid "Please check PHP version requirement."
+msgstr ""
+
+#: ../app/Controllers/Notifications.php:30, ../woo-product-variation-swatches/app/Controllers/Notifications.php:30
+msgid "It's required to use latest version of PHP to use <strong>WooCommerce Variation Swatches</strong>."
+msgstr ""
+
+#: ../app/Controllers/Notifications.php:41, ../woo-product-variation-swatches/app/Controllers/Notifications.php:41
+msgid "WooCommerce"
+msgstr ""
+
+#: ../app/Controllers/Notifications.php:49, ../woo-product-variation-swatches/app/Controllers/Notifications.php:49
+msgid "<strong>WooCommerce Variation Swatches</strong> is an add-on of "
+msgstr ""
+
+#: ../app/Controllers/Notifications.php:58, ../woo-product-variation-swatches/app/Controllers/Notifications.php:58
+msgid "Currently, you are using older version of WooCommerce. It's recommended to use latest version of WooCommerce to work with %s."
+msgstr ""
+
+#: ../app/Controllers/Notifications.php:58, ../woo-product-variation-swatches/app/Controllers/Notifications.php:58
+msgid "WooCommerce Variation Swatches"
+msgstr ""
+
+#: ../app/Controllers/ScriptLoader.php:70, ../app/Helpers/Options.php:40, ../woo-product-variation-swatches/app/Controllers/ScriptLoader.php:70, ../woo-product-variation-swatches/app/Helpers/Options.php:40
+msgid "Choose an Image"
+msgstr ""
+
+#: ../app/Controllers/ScriptLoader.php:71, ../woo-product-variation-swatches/app/Controllers/ScriptLoader.php:71
+msgid "Use Image"
+msgstr ""
+
+#: ../app/Controllers/ScriptLoader.php:72, ../woo-product-variation-swatches/app/Controllers/ScriptLoader.php:72
+msgid "Add Media"
+msgstr ""
+
+#: ../app/Controllers/SettingsAPI.php:50, ../woo-product-variation-swatches/app/Controllers/SettingsAPI.php:50
+msgid "Settings"
+msgstr ""
+
+#: ../app/Controllers/SettingsAPI.php:51, ../app/Helpers/Functions.php:201, ../woo-product-variation-swatches/app/Controllers/SettingsAPI.php:51, ../woo-product-variation-swatches/app/Helpers/Functions.php:201
+msgid "Demo"
+msgstr ""
+
+#: ../app/Controllers/SettingsAPI.php:52, ../app/Helpers/Functions.php:202, ../woo-product-variation-swatches/app/Controllers/SettingsAPI.php:52, ../woo-product-variation-swatches/app/Helpers/Functions.php:202
+msgid "Documentation"
+msgstr ""
+
+#: ../app/Controllers/SettingsAPI.php:53, ../woo-product-variation-swatches/app/Controllers/SettingsAPI.php:53
+msgid "Get Pro"
+msgstr ""
+
+#: ../app/Controllers/SettingsAPI.php:60, ../woo-product-variation-swatches/app/Controllers/SettingsAPI.php:60
+msgid "Product Swatches"
+msgstr ""
+
+#: ../app/Controllers/SettingsAPI.php:76, ../woo-product-variation-swatches/app/Controllers/SettingsAPI.php:76
+msgid "WooCommerce Product Variation Swatches Settings"
+msgstr ""
+
+#: ../app/Controllers/TermMeta.php:237, ../woo-product-variation-swatches/app/Controllers/TermMeta.php:237
+msgid "Upload / Add image"
+msgstr ""
+
+#: ../app/Controllers/TermMeta.php:240, ../woo-product-variation-swatches/app/Controllers/TermMeta.php:240
+msgid "Remove image"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:61, ../app/Helpers/Functions.php:72, ../woo-product-variation-swatches/app/Helpers/Functions.php:61, ../woo-product-variation-swatches/app/Helpers/Functions.php:72
+msgid "Choose an option"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:200, ../woo-product-variation-swatches/app/Helpers/Functions.php:200
+msgid "Buy"
+msgstr ""
+
+#: ../app/Helpers/Options.php:9, ../app/Helpers/Options.php:30, ../woo-product-variation-swatches/app/Helpers/Options.php:9, ../woo-product-variation-swatches/app/Helpers/Options.php:30
+msgid "Color"
+msgstr ""
+
+#: ../app/Helpers/Options.php:10, ../app/Helpers/Options.php:39, ../woo-product-variation-swatches/app/Helpers/Options.php:10, ../woo-product-variation-swatches/app/Helpers/Options.php:39
+msgid "Image"
+msgstr ""
+
+#: ../app/Helpers/Options.php:11, ../woo-product-variation-swatches/app/Helpers/Options.php:11
+msgid "Button"
+msgstr ""
+
+#: ../app/Helpers/Options.php:12, ../woo-product-variation-swatches/app/Helpers/Options.php:12
+msgid "Radio"
+msgstr ""
+
+#: ../app/Helpers/Options.php:31, ../woo-product-variation-swatches/app/Helpers/Options.php:31
+msgid "Choose a color"
+msgstr ""
+
+#: ../app/Helpers/Options.php:60, ../woo-product-variation-swatches/app/Helpers/Options.php:60
+msgid "General"
+msgstr ""
+
+#: ../app/Helpers/Options.php:61, ../woo-product-variation-swatches/app/Helpers/Options.php:61
+msgid "Simple change some visual styles"
+msgstr ""
+
+#: ../app/Helpers/Options.php:67, ../woo-product-variation-swatches/app/Helpers/Options.php:67
+msgid "Enable Tooltip"
+msgstr ""
+
+#: ../app/Helpers/Options.php:68, ../woo-product-variation-swatches/app/Helpers/Options.php:68
+msgid "Enable / Disable plugin default tooltip on each product attribute."
+msgstr ""
+
+#: ../app/Helpers/Options.php:74, ../woo-product-variation-swatches/app/Helpers/Options.php:74
+msgid "Shape style"
+msgstr ""
+
+#: ../app/Helpers/Options.php:75, ../woo-product-variation-swatches/app/Helpers/Options.php:75
+msgid "Attribute Shape Style"
+msgstr ""
+
+#: ../app/Helpers/Options.php:77, ../woo-product-variation-swatches/app/Helpers/Options.php:77
+msgid "Rounded Shape"
+msgstr ""
+
+#: ../app/Helpers/Options.php:78, ../woo-product-variation-swatches/app/Helpers/Options.php:78
+msgid "Squared Shape"
+msgstr ""
+
+#: ../app/Helpers/Options.php:85, ../woo-product-variation-swatches/app/Helpers/Options.php:85
+msgid "Attribute image size"
+msgstr ""
+
+#: ../app/Helpers/Options.php:86, ../woo-product-variation-swatches/app/Helpers/Options.php:86
+msgid "<span style=\"color: red\">Attribute image size changed by <code>rtwpvs_product_attribute_image_size</code> hook. So this option will not apply any effect.</span>"
+msgstr ""
+
+#: ../app/Helpers/Options.php:86, ../woo-product-variation-swatches/app/Helpers/Options.php:86
+msgstr ""
+
+#: ../app/Helpers/Options.php:93, ../woo-product-variation-swatches/app/Helpers/Options.php:93
+msgid "Width"
+msgstr ""
+
+#: ../app/Helpers/Options.php:94, ../woo-product-variation-swatches/app/Helpers/Options.php:94
+msgid "Variation item width"
+msgstr ""
+
+#: ../app/Helpers/Options.php:103, ../woo-product-variation-swatches/app/Helpers/Options.php:103
+msgid "Height"
+msgstr ""
+
+#: ../app/Helpers/Options.php:104, ../woo-product-variation-swatches/app/Helpers/Options.php:104
+msgid "Variation item height"
+msgstr ""
+
+#: ../app/Helpers/Options.php:113, ../woo-product-variation-swatches/app/Helpers/Options.php:113
+msgid "Font Size"
+msgstr ""
+
+#: ../app/Helpers/Options.php:114, ../woo-product-variation-swatches/app/Helpers/Options.php:114
+msgid "Single product variation item font size"
+msgstr ""
+
+#: ../app/Helpers/Options.php:124, ../woo-product-variation-swatches/app/Helpers/Options.php:124
+msgid "Advanced"
+msgstr ""
+
+#: ../app/Helpers/Options.php:125, ../app/Helpers/Options.php:145, ../woo-product-variation-swatches/app/Helpers/Options.php:125, ../woo-product-variation-swatches/app/Helpers/Options.php:145
+msgid "Advanced change some visual styles"
+msgstr ""
+
+#: ../app/Helpers/Options.php:131, ../app/Helpers/Options.php:166, ../woo-product-variation-swatches/app/Helpers/Options.php:131, ../woo-product-variation-swatches/app/Helpers/Options.php:166
+msgid "Attribute behavior"
+msgstr ""
+
+#: ../app/Helpers/Options.php:132, ../woo-product-variation-swatches/app/Helpers/Options.php:132
+msgid "Disabled attribute will be hide / blur."
+msgstr ""
+
+#: ../app/Helpers/Options.php:134, ../woo-product-variation-swatches/app/Helpers/Options.php:134
+msgid "Blur with cross"
+msgstr ""
+
+#: ../app/Helpers/Options.php:135, ../woo-product-variation-swatches/app/Helpers/Options.php:135
+msgid "Blur without cross"
+msgstr ""
+
+#: ../app/Helpers/Options.php:136, ../woo-product-variation-swatches/app/Helpers/Options.php:136
+msgid "Hide"
+msgstr ""
+
+#: ../app/Helpers/Options.php:144, ../woo-product-variation-swatches/app/Helpers/Options.php:144
+msgid "Style"
+msgstr ""
+
+#: ../app/Helpers/Options.php:151, ../woo-product-variation-swatches/app/Helpers/Options.php:151
+msgid "Tooltip background"
+msgstr ""
+
+#: ../app/Helpers/Options.php:152, ../woo-product-variation-swatches/app/Helpers/Options.php:152
+msgid "Tooltip background color"
+msgstr ""
+
+#: ../app/Helpers/Options.php:159, ../app/Helpers/Options.php:160, ../woo-product-variation-swatches/app/Helpers/Options.php:159, ../woo-product-variation-swatches/app/Helpers/Options.php:160
+msgid "Tooltip text color"
+msgstr ""
+
+#: ../app/Helpers/Options.php:167, ../woo-product-variation-swatches/app/Helpers/Options.php:167
+msgid "This will work for (blur and blur-no-cross)"
+msgstr ""
+
+#: ../app/Helpers/Options.php:172, ../woo-product-variation-swatches/app/Helpers/Options.php:172
+msgid "Cross background color"
+msgstr ""
+
+#: ../app/Helpers/Options.php:173, ../woo-product-variation-swatches/app/Helpers/Options.php:173
+msgid "Cross background color for disabled item"
+msgstr ""
+
+#: ../app/Helpers/Options.php:179, ../woo-product-variation-swatches/app/Helpers/Options.php:179
+msgid "Blur Opacity"
+msgstr ""
+
+#: ../app/Helpers/Options.php:180, ../woo-product-variation-swatches/app/Helpers/Options.php:180
+msgid "Blur Opacity for disabled item range[.1 to 1]"
+msgstr ""
+
+#: ../app/Helpers/Options.php:190, ../woo-product-variation-swatches/app/Helpers/Options.php:190
+msgid "Tools"
+msgstr ""
+
+#: ../app/Helpers/Options.php:191, ../woo-product-variation-swatches/app/Helpers/Options.php:191
+msgid "Tools define some system tasks"
+msgstr ""
+
+#: ../app/Helpers/Options.php:197, ../woo-product-variation-swatches/app/Helpers/Options.php:197
+msgid ""
+"\n"
+"Enable to delete all data"
+msgstr ""
+
+#: ../app/Helpers/Options.php:199, ../woo-product-variation-swatches/app/Helpers/Options.php:199
+msgid "Enable / Disable Allow to delete all data for WooCommerce Product variation plugin during delete this plugin"
+msgstr ""
+
+#: ../app/Helpers/Options.php:205, ../woo-product-variation-swatches/app/Helpers/Options.php:205
+msgid "Premium Plugins"
+msgstr ""
+
+#: ../app/Helpers/Options.php:206, ../woo-product-variation-swatches/app/Helpers/Options.php:206
+msgid "You can try our premium plugins"
+msgstr ""
